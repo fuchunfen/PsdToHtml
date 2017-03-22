@@ -1,0 +1,35 @@
+.public-header{
+    height:110px;
+}
+.public-container{
+    position: relative;
+    width:1100px;
+    margin:0 auto;
+}
+
+.public-header .header-logo a{
+    float:left;
+    width:181px;
+    height:54px;
+    margin-top:40px;
+    background: url("../images/index-header-logo.png");
+}
+
+.public-header .header-nav{
+    float:right;
+}
+.public-header .header-nav .item{
+    float:left;
+    margin-top:44px;
+    margin-left:50px;
+}
+.public-header .header-nav .item a{
+    color:#3b3b3b;
+    font-size: 14px;
+
+}
+
+.public-footer{
+    height:318px;
+    background-color: #3b3b3b;
+}

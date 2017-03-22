@@ -1,0 +1,28 @@
+body,div,h1,h2,h3,h4,h5,h6,p,ul,li,ol{
+    margin:0;
+    padding:0;
+}
+
+ol,ul,li{
+    list-style: none;
+}
+img{
+    display: block;
+    border:none;
+}
+a{
+    text-decoration: none;
+    display: block;
+}
+
+.clearfloat{
+    zoom:1;
+}
+
+.clearfloat:after {
+    display: block;
+    height: 0;
+    clear: both;
+    content: "";
+    visibility: hidden;
+}
