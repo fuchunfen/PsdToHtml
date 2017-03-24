@@ -32,4 +32,27 @@
 .public-footer{
     height:318px;
     background-color: #3b3b3b;
+    color:#fff;
+    font-size:16px;
+    line-height: 1.8;
+    margin-top:200px;
+}
+.public-footer a{
+    color:#fff;
+}
+.public-footer .footer-col{
+    float:left;
+    width:230px;
+    margin-left:60px;
+    margin-top:100px;
+}
+.public-footer .footer-col:last-child{
+    margin-left:0;
+}
+.public-footer .footer-col .footer-logo a{
+    width:182px;
+    height:55px;
+    background: url("../images/index-footer-logo.png");
+    margin-top:-15px;
+    margin-bottom:12px;
 }
