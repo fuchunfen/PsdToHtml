@@ -1,0 +1,218 @@
+.index-banner{
+    width:1500px;
+    height:570px;
+    margin:0 auto;
+    position: relative;
+}
+.index-banner .banner-text{
+    position: absolute;
+    left:50%;
+    top:206px;
+    margin-left:-388px;
+    text-align: center;
+}
+.banner-text .logo{
+    width:776px;
+    height:117px;
+    background: url("../images/index-banner-textlogo.png");
+}
+.banner-text .info{
+    color:#fff;
+    font-size: 16px;
+}
+.banner-text .info span{
+    margin:0 26px;
+}
+.banner-text .info .line{
+    display: inline-block;
+    width:40px;
+    border-bottom:1px solid #fff;
+    vertical-align: middle;
+}
+.index-menu{
+    width:1500px;
+    margin:0 auto;
+    border-top:3px solid #f34949;
+    position:relative;
+}
+.index-menu .menu-tips{
+    width:156px;
+    height:75px;
+    font-size: 20px;
+    color:#fff;
+    line-height:60px;
+    background: #f34949;
+    text-align: center;
+    position: absolute;
+    top:0;
+    left:50%;
+    margin-left:-78px;
+}
+.index-menu .menu-tips:after{
+    position: absolute;
+    display: block;
+    content: "";
+    height:0;
+    width:0;
+    left:0;
+    bottom:0;
+    border-left: 78px solid #f34949;
+    border-right: 78px solid #f34949;
+    border-bottom: 12px solid #fff;
+}
+.index-menu{
+    overflow: hidden;
+}
+.index-menu .menu-list ul{
+    width:1160px;
+    margin-top:156px;
+}
+.menu-list .menu-item{
+    float:left;
+    width:520px;
+    margin-right:60px;
+}
+.menu-item .title,.menu-item .line{
+    float:left;
+}
+.menu-item .title{
+
+}
+.menu-item .title h4{
+    font-size: 16px;
+    color:#555;
+}
+.menu-item .title .comment{
+    font-size: 12px;
+    color:#b7b7b7;
+}
+.menu-item .line{
+    width:192px;
+    border-top:2px solid #e3e1e1;
+    margin-top:10px;
+}
+.menu-item .price{
+    float:right;
+    font-size:16px;
+    color:#555;
+    margin-bottom:60px;
+}
+.index-menu .load-more-btn{
+    width:132px;
+    height:32px;
+    border:1px solid #d7d5d5;
+    padding-left:16px;
+    font-size: 16px;
+    line-height:32px;
+    color:#d7d5d5;
+    margin:0 auto;
+}
+.index-menu .load-more-btn .icon{
+    display: inline-block;
+    width:11px;
+    height:7px;
+    background: url(../images/index-btn-icon.gif);
+}.index-menu .load-more-btn span{
+    margin:0 12px;
+ }
+.index-pannel{
+    margin-top:200px;
+}
+.index-pannel .pannel-header .title{
+    font-size: 20px;
+    color:#3b3b3b;
+    float:left;
+    margin-right:50px;
+}
+.index-pannel .pannel-header .line{
+    width:202px;
+    border-top:2px solid #e5e3e3;
+    float:left;
+    margin-top:10px;
+}
+.index-pannel .pannel-header .btn-group{
+    float:right;
+}
+.pannel-header .btn-group .btn{
+    float:left;
+    width:9px;
+    height:9px;
+    border-radius: 50%;
+    background-color: #dedede;
+    margin-left:10px;
+}
+.pannel-header .btn-group .active{
+    background-color: #9b9b9b;
+}
+.index-pannel .pannel-body{
+    margin-top:80px;
+    overflow: hidden;
+}
+.pannel-body ul{
+    width:1160px;
+}
+.pannel-body .item{
+    float:left;
+    width:230px;
+    margin-right:60px;
+}
+.pannel-body .item .banner{
+    height:202px;
+}
+.pannel-body .item .name{
+    margin-top:28px;
+    font-size: 16px;
+    color:#555;
+}
+.pannel-body .item .name .price{
+    float:right;
+}
+.pannel-body .item .start-bar{
+    margin-top:14px;
+}
+.pannel-body .item .star{
+    display: inline-block;
+    width:11px;
+    height:11px;
+    background: url("../images/index-star.png");
+}
+.pannel-body .item .nostar{
+    background-position: 0 -12px;
+}
+.food-pics .pic-col{
+    height:380px;
+    float:left;
+}
+.food-pics .pic-col-m{
+    width:354px;
+}
+.food-pics .pic-col-s{
+    width:286px;
+}
+.food-pics .pic-col-l{
+    width:460px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
